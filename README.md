@@ -12,5 +12,5 @@ System design basic introduction
 
 
 System design backend
-📼 [Youtube link]()
-📝 [Notes link]()
+📼 [Youtube link](https://youtu.be/k4dotTFGOw0)
+📝 [Notes link](https://github.com/sahilverma0696/System-Design-Basics/tree/main/System%20design%20-%20Backend)
